@@ -12,9 +12,10 @@
         "ext-json": "*",
         "ext-openssl": "*",
         "php": "^7.2",
-        "illuminate/support": "~5.0",
-        "illuminate/container": "~5.0",
-        "illuminate/translation": "~5.0",
+        "illuminate/contracts": "^7.5",
+        "illuminate/support": "^7.5",
+        "illuminate/container": "^7.5",
+        "illuminate/translation": "^7.5",
         "guzzlehttp/guzzle": "~6.0",
         "pimple/pimple": "^3.0"
     },
